@@ -1,0 +1,19 @@
+p {
+    font-size: 16px;
+    font-style: italic;
+    color: blue;
+    text-align: center;
+  }
+
+  #hello {
+    color: tomato;
+    font-size: medium;
+    font-style: italic;
+    text-align: center;
+  }
+
+  .description {
+    color: aqua;
+    text-align: center;
+  }
+  
