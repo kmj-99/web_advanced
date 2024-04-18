@@ -22,4 +22,4 @@ jobs:
           aws s3 cp \
             --recursive \
             --region ap-northeast-2 \
-            /Users/kimminjung/Desktop/UIUX/web_advanced/ s3://pd-portfolio-kmj99
+            ./ s3://pd-portfolio-kmj99
